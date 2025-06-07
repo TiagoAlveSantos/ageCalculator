@@ -52,10 +52,6 @@ Após selecionar uma data de nascimento e uma data inicial, o aplicativo calcula
 - **Meses**: 4
 - **Dias**: 15
 
-## Imagens da Interface
-
-![Calculadora de Idade](https://via.placeholder.com/600x400)
-
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Você pode criar uma **issue** ou enviar um **pull request** com suas modificações.
